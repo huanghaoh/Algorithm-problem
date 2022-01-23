@@ -1,3 +1,2 @@
-git add .
-git commit -m date
+git commit -a
 git push origin main
